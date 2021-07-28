@@ -70,4 +70,4 @@ function hitCountApi(){
     });
 }
 
-main(););
+main();;
