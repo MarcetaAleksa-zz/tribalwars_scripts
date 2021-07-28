@@ -3,7 +3,7 @@ javascript:
 window.coords='510|498 499|499 499|493 509|502 499|505';
 window.ram_spy_ratio= 8; //8 spies for each ram;
 window.fakeLimit= 1; //1%
-$.getScript(let countapikey = "smartFakes";
+
 
 function getDist(coords){
     return Math.sqrt(Math.pow(parseInt(coords[0]) - game_data.village.x, 2) +  Math.pow(parseInt(coords[1]) - game_data.village.y, 2));
